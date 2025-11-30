@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
         <p>this is seo</p>
-        
+        <p>sdhfsfdlds</p>
       </main>
     </div>
   );
